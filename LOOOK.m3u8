@@ -1,2 +1,3 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1280000
 http://lordstreams.live/live/00000/00000/668276.m3u8
