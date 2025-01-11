@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=721x240
-http://185.235.165.65/play/live.php?mac=00:1a:79:d3:0a:48&stream=987843&extension=m3u8
+http://lio.mytv-box.com/live/644109LN/agK33993/1156613.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=720x480
 http://lio.mytv-box.com/live/644109LN/agK33993/1156613.m3u8
