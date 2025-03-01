@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=721x240
-http://154.70.152.44:2103/play/live.php?mac=00:1A:79:E4:48:01&stream=112157&extension=ts&play_token=0jJYhBGti1
+http://154.70.152.44:2103/play/live.php?mac=00:1A:79:E4:48:01&stream=112157&extension=m3u8
 
