@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=721x240
+http://185.245.2.96/play/live.php?mac=00:1A:79:C2:82:F4&stream=1036847&extension=m3u8
