@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=721x240
+https://alraqi-api.com/apollo12/TVD4002/index.mpd
