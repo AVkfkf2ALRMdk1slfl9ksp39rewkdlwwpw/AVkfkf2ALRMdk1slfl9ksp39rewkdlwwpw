@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=480x240
-
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=720x480
 https://lookfastserver.looktvproappserverfast3dmwppwi30081fjaalaoqmnvxzpaiqpetoqqelemg.workers.dev/2.m3u8
