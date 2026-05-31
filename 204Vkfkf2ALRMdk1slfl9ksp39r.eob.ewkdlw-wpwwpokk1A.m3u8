@@ -1,5 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=480x360
-http://m3u.lol/live/mohammedsami/6546549878/431655.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=1900x1080
-http://m3u.lol/live/mohammedsami/6546549878/431634.m3u8
+https://match-now.site/hls/b1/index.m3u8
