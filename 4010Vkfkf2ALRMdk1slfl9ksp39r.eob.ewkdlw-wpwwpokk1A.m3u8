@@ -1,9 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=721x240
-http://deno.adilservice.com/live/207bc27044/0b77d23a44e7/1389558.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=480x240
+http://varnishrcdn.com/live/hameedha2/XRewmb2XTY/717482.m3u8
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=1080x720
-http://deno.adilservice.com/live/207bc27044/0b77d23a44e7/1389564.m3u8
+http://varnishrcdn.com/live/hameedha2/XRewmb2XTY/717486.m3u8
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=1900x1080
-http://deno.adilservice.com/live/207bc27044/0b77d23a44e7/1389576.m3u8
+http://varnishrcdn.com/live/hameedha2/XRewmb2XTY/717490.m3u8
