@@ -1,9 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=1080x720
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291494.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=1080x1900
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/248176.m3u8
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=721x240
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291506.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/248164.m3u8
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=720x240
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291512.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=480x240
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/248170.m3u8
