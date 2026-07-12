@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=1080x1920
-http://magicshow.online:2052/live/k2muEXF5/px4m8xz/3812.m3u8
+http://magicshow.online:2052/live/k2muEXF5/px4m8xz/3812.ts
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=10000,RESOLUTION=721x1280
-http://magicshow.online:2052/live/k2muEXF5/px4m8xz/3810.m3u8
+http://magicshow.online:2052/live/k2muEXF5/px4m8xz/3810.ts
